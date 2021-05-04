@@ -1,4 +1,5 @@
-<img src="img/yazyap-vertical.png" width="750" height="118">
+<img src="img/yazyap-vertical-white.png" width="375" height="118">
+<img src="img/yazyap-vertical-blue.png" width="375" height="118">
 
 
 # EN - YazYap 🚀
